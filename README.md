@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @8245k
-- I'm a freshman of COMPUTER SCIENCE 我是一个大学计算机系的新生
+- I'm a freshman of COMPUTER department in a institude.我是一个大学计算机系的新生
 - 👀 I’m interested in 打∠、写代码
 - 🌱 I’m currently learning C and python
 - 💞️ I’m looking to collaborate on ...
